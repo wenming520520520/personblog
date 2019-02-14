@@ -1,0 +1,12 @@
+rootProject.name = 'personblog'
+
+include 'blog-manager'
+include 'blog-space'
+include 'blog-manager-api'
+include 'blog-manager-model'
+include 'blog-space-api'
+include 'blog-space-model'
+include 'blog-commons'
+
+
+
